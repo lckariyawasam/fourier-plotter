@@ -12,6 +12,7 @@ Changable Parameters
 
 The following parameters can be modified to customize the Fourier Plotter:
 
+- `actual_function` : The actual function to be approximated
 - `a_0`: The coefficient for the constant term in the Fourier series.
 - `a_n`: The coefficients for the cosine terms in the Fourier series.
 - `b_n`: The coefficients for the sine terms in the Fourier series.
