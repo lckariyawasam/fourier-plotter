@@ -24,6 +24,18 @@ The following parameters can be modified to customize the Fourier Plotter:
 These parameters can be adjusted to experiment with different functions and visualize their Fourier approximations.
 
 
+## Usage
+
+To use the Fourier Plotter, follow these steps:
+
+1. Install the required dependencies by running the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. Modify the changable parameters in the script according to your requirements.
+
+3. Run the script to plot the actual function and its Fourier approximation.
 
 **Example**
 
@@ -35,3 +47,5 @@ These parameters can be adjusted to experiment with different functions and visu
 
 Plot of actual function and approximation
 <img src="./sample.png">
+
+
